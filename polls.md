@@ -8,6 +8,8 @@ At this time we have one poll going:
 
 * [F12 Empyrion Server Poll - Teleporter Range](https://forms.gle/iyNCLVfdkrtPPSy27)
 
+Please click on the link(s) to leave your vote.
+
 ## Information about Google sign-in
 
 Note that in order to prevent people from voting multiple times on a single poll, and thus "game the system", we turn on the setting that you have to sign in with Google before you can respond.
