@@ -1,14 +1,16 @@
+# Server Information
+
 This page contains information the **F12** server running [Project Eden](#project-eden), a custom scenario in [Empyrion - Galactic Survival][egs].
 
 * TOC
 {:toc}
 
-# Changelog
+## Changelog
 
 * 30/09/2020 - Added text about Discord chat linked to Empyrion global in game chat; Added proper domain
 * 29/09/2020 - Initial page published
 
-# Discord
+## Discord
 
 The server has an accompanying [Discord](https://discord.com/) server, open to anyone playing on the **F12** server.
 
@@ -20,7 +22,7 @@ The official language on the Discord server in the Empyrion game channels is Eng
 
 There is a linked text chat on Discord named `#empyrion`, found under the `CHATS` general heading. This one is linked to global chat in game on the server. This means you can talk to people that are playing even if you are only online through Discord, or vice versa. Keep up with your friends and what is happening on the server, even while you are not actually playing.
 
-# Code of Conduct
+## Code of Conduct
 
 This is a **PvE** server. There is some information that might indicate that some areas, playfields, in the game are flagged as **PvP**. This is unsupported and unwelcome. This is **not** a **PvP** server, purely **PvE**. Should there be incidents where players outright grief or kill other players with intent, the admins will almost certainly have a word with you.
 
@@ -30,18 +32,18 @@ Also note that surface area around bases might be deformable by anyone, in any f
 
 Other than that, **be nice**, **respect others** and above all else, **have fun**. Hit the full stop, or *dot*, to open the textchat in game and chat us up, or preferrably join the discord channel (see [Discord](#discord)).
 
-# Reset times
+## Reset times
 
 All times shown here are in relation to [Norwegian Time][nortime] which currently is following **CEST - Central European Summer Time** a.k.a **GMT+2**.
 
-## Summary
+### Summary
 
 * The server performs a **restart** every **morning** at **03:00**.
 * **Deposits** on planets reset every **morning** at **03:00**.
 * Points of Interests (**POI**s) reset every **Tuesday** and **Friday** at **03:00** .
   * This includes ore **asteroids**
 
-## More information
+### More information
 
 Every morning at 03:00 the server performs a restart. Players will be warned in advance, usually about 15 minutes before, 10 minutes before and 5 minutes before. Players should
 log out to avoid anomalies. The restart doesn't take long *(need info here)* so if you want to keep playing, wait for it to reappear in your server list to rejoin.
@@ -52,7 +54,7 @@ POIs are reset twice a week, every Tuesday and Friday during server restart. Str
 
 **Warning:** Please read the section on [Known Issues](#known-issues) further below for information about **Autominers**.
 
-# Project Eden
+## Project Eden
 
 This server is running the [Project Eden][pe] custom scenario.
 
@@ -70,7 +72,7 @@ Here, however, are some of the most important changes this scenario brings, comp
 * More diverse starting planets, and more starting planets in general
 * Custom created planets and moons, in rare cases to have an extreme amount of a certain type of resource
 
-# Factions
+## Factions
 
 Every new player joins the **Human** faction. It is recommended that you leave this faction and create your own for you and your friends, instead of staying in the common Human faction.
 
@@ -82,7 +84,7 @@ Additionally, if someone goes to war against Polaris, and the Human faction ends
 
 If, as a new player, you end up inheriting hostile relationship with Talon or Polaris, and this is brought over to your new faction, please ask for admin help to rectify this.
 
-# Server Settings
+## Server Settings
 
 The [Empyrion][egs] game has plenty of settings, so here is a list of the settings that have been specifically set for this server.
 
@@ -105,13 +107,13 @@ The [Empyrion][egs] game has plenty of settings, so here is a list of the settin
 
     See the section [Hints](#hints) below for some more information about blueprints.
 
-# Chatbot
+## Chatbot
 
 A chatbot has been activated on the server. You can access it by typing in `cb:?` in any of the textchat tabs. Try using the faction tab to minimze the spam for others. Make sure to spell it correct, you need both the colon and the question mark for it to be valid.
 
 The chatbot can help with some common issues, such as moving you to a nearby ship, or getting information about when things happen on the server. The `cb:?` command will give you a list of all supported commands. Note that some of these commands give you "cheat like" functions, such as the one which moves you to your ship. They are, however, a crutch to lean on if bugs crop up and no admin is online. Use with caution.
 
-# Admin services
+## Admin services
 
 The [Empyrion][egs] game is not bug free. There are some minor issues that crop up from time to time. If you need help resolving an issue that can be attributed to a bug in the game, please ask for help from an admin. Admins are not always on, so there might not be an immediate resolution to your issue, but please ask in game for help and the online players will help if they can.
 
@@ -128,7 +130,7 @@ Note that an admin will probably not help you with restoring lost vessels or mat
 a level 10 Zirax area and your ship is shot down, with all your resources, you need to be prepared to handle that loss and possibly fight to get your ship or stuff
 back. This is part of the game. Bugs, however, should ot be.
 
-# Hints
+## Hints
 
 Here are a bunch of helpful hints to help you play [Empyrion][egs] on the **F12** server (or just in general).
 
@@ -138,17 +140,17 @@ Here are a bunch of helpful hints to help you play [Empyrion][egs] on the **F12*
 * If you subscribe to blueprints in the workshop, remember to exit the game completely to get them loaded into the game. The download is performed by the Steam client, and it will only do so once the game has completely exited. This also means you need to have Steam running to get the blueprints downloaded. After they are downloaded you can log back into the game, and they will appear in the Blueprint section in your control panel.
 * To make a cargo container or other block available for use by non-faction people, you can set a code to it. People who know the code can then use it by inputting it every time they want to use the block. If you want everyone to be able to use it, you can use the special code `0000`, as the block will then become public and no code input will be required. Note that this does not allow people to remove the block with a Multi Tool, only to *operate* it.
 
-# Known Issues
+## Known Issues
 
 * Sometimes you can get stuck in an endless loading screen while loading structures. It happens rarely, but it does happen. This is most likely a bug in the game and nothing with the server, as most players can resolve this by forcibly quitting the game (Alt+F4) and retrying. Sometimes it takes several attempts. A theory is that the bug is related to loading of complex structures and playfields, so depending on where you are in the game it may occur more or less often.
 * Sometimes after having loaded in you notice that your base or your ships seems to be cut in half, turned off, and you might be standing on rock below where the missing portions of your ship or base is located. If this happens, try to move to a spot where you *know* that you are inside your base, or on safe ground, and then relog. This is a loading bug in 99.99% cases and a relog usually fixes this straight away. If something is still missing after one or two such relogs, please seek help from an admin.
 * Autominers placed on deposits will be **wiped** during server restart every morning at 03:00. You can use Autominers on this server, but you **must** retrieve them **and** their content before server reset or you *will lose them*. If this has already happened to you because you did not know about this problem, please seek admin help. This is an issue with the way the deposits are reset and not by choice. As such there is nothing we can do about this problem right now other than to be aware of it.
 
-# Location
+## Location
 
 The server is located in Oslo, Norway. This is rather unimportant to most people but if you have very high latency to the server, this might be important.
 
-# Contact Information
+## Contact Information
 
 This page maintained by Cabbot a.k.a Lasse Vågsæther Karlsen. If there is anything wrong or missing on this page, or you have suggestions for additional content to add, feel free to chat me up in game or by [sending me an email](mailto:lasse@vkarlsen.no?subject=F12+Server+Information), you can also file an issue [here](https://github.com/lassevk/lassevk.github.io/issues/new).
 
