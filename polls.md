@@ -10,6 +10,8 @@ At this time we have one poll going:
 
 Please click on the link(s) to leave your vote.
 
+Each poll will tell you a little bit about what it asks of you, and also tell you approximately when the poll will be closed and what happens next.
+
 ## Information about Google sign-in
 
 Note that in order to prevent people from voting multiple times on a single poll, and thus "game the system", we turn on the setting that you have to sign in with Google before you can respond.
@@ -18,6 +20,6 @@ However, Google does not tell us any information about who has responded, so eve
 
 ## Previous polls
 
-Each poll will tell you a little bit about what it asks of you, and also tell you approximately when the poll will be closed and what happens next. If a poll ends up with a decision (including a decision not to change anything), previous polls and their results will be posted here.
+Previous polls and their results will be posted here. If any decisions were made, the decision will also be posted here.
 
 There has not yet been any polls conducted. This will be updated when polls close and decisions are made.
