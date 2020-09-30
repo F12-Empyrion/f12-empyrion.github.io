@@ -1,5 +1,3 @@
-**F12 Project Eden Nordic PVE Empyrion Server**
-
 This page contains information the **F12** server running [Project Eden](#project-eden), a custom scenario in [Empyrion - Galactic Survival][egs].
 
 * TOC
