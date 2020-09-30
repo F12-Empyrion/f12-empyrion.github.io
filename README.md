@@ -7,7 +7,7 @@ This page contains information the **F12** server running [Project Eden](#projec
 
 # Changelog
 
-* 30/09/2020 - Added text about Discord chat linked to Empyrion global in game chat
+* 30/09/2020 - Added text about Discord chat linked to Empyrion global in game chat; Added proper domain
 * 29/09/2020 - Initial page published
 
 # Discord
