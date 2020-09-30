@@ -84,6 +84,12 @@ Additionally, if someone goes to war against Polaris, and the Human faction ends
 
 If, as a new player, you end up inheriting hostile relationship with Talon or Polaris, and this is brought over to your new faction, please ask for admin help to rectify this.
 
+## Ongoing Server Polls
+
+From time to time we might conduct polls that tells us what the player community on the server thinks about various topics. This can include both topics suggested by the server owners/admins or any of the players.
+
+Please visit the [poll page](polls.md) for more information
+
 ## Server Settings
 
 The [Empyrion][egs] game has plenty of settings, so here is a list of the settings that have been specifically set for this server.
