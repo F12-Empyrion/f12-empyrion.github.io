@@ -1,3 +1,9 @@
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-minima
 title: F12 Project Eden Nordic PVE Empyrion Server
+description: Information about the F12 Project Eden Nordic PVE Empyrion Server
+url: https://f12empyrion.no
+author: Lasse Vågsæther Karlsen
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-179303665-1
