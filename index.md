@@ -33,14 +33,12 @@ Other than that, **be nice**, **respect others** and above all else, **have fun*
 
 All times shown here are in relation to [Norwegian Time][nortime] which currently is following **CEST - Central European Summer Time** a.k.a **GMT+2**.
 
-### Summary
-
-* The server performs a **restart** every **morning** at **03:00**.
-* **Deposits** on planets reset every **morning** at **03:00**.
-* Points of Interests (**POI**s) reset every **Tuesday** and **Friday** at **03:00** .
-  * This includes ore **asteroids**
-
-### More information
+| What                             | Time  | Days            |
+| -------------------------------- | ----- | --------------- |
+| Restart                          | 03:00 | Every day       |
+| Deposits reset                   | 03:00 | Every day       |
+| Points of Interests (POIs) reset | 03:00 | Tuesday, Friday |
+| Asteroids reset                  | 03:00 | Tuesday, Friday |
 
 Every morning at 03:00 the server performs a restart. Players will be warned several times during the 15 minutes in advance of the restart. Players should
 log out to avoid anomalies. The restart takes about 15 minutes so if you want to keep playing, wait for it to reappear in your server list to rejoin. With the linked Discord chat
@@ -92,24 +90,21 @@ Please visit the [poll page](polls.md) for more information
 
 The [Empyrion][egs] game has plenty of settings, so here is a list of the settings that have been specifically set for this server.
 
-* Difficulty: **Hard**
+| Setting                 | Value        |
+| ----------------------- | ------------ |
+| Difficulty              | Hard (1)     | 
+| CPU Points              | Disabled (2) |
+| Check Mass / Volume     | Disabled (3) |
+| Auto Miner Depletion    | Disabled (4) |
+| Keep inventory on death | Nothing (5)  |
+| Blueprints (6)          | Allowed      |
 
-    Enemies are tougher to kill and hit harder. Expect more drones in sectors. POIs can be deadly *(but they are still possible*).
-* CPU Points: **Disabled**
-
-    Please read more about the [CPU Efficiency][cpu] if you want more information, but the important part is that CPU points and thus (in)efficiency have been turned off on this server. All bases and vessels always operate at 100% CPU efficiency regardless of presence of CPU Extenders. Some players, like me, still like to make the constructs CPU Compliant, but this is a personal choice and by no means necessary. See the [Hints](#hints) section further below for some information about how this might impact your gameplay.
-* Check Mass / Volume: **Disabled**
-
-    You are a superhuman. You can carry big constructors and thousands of big steel blocks without breaking a sweat. Cargo containers only check the amount of occupied slots inside, not what you have in them. You will likely see this in game as a "X / Y" ratio down and to the right of all inventories and the X can *far* overshoot the Y. This is not a problem. The reason for this decision is that most players feel that playing with volume and weight limits enabled makes the game much much more of a hassle than it makes it fun, so this has been turned off.
-* Auto Miner Depletion: **Disabled**
-
-    Autominers does not deplete deposits. However, see [Known Issues](#known-issues) below for some *important* information about autominers on this server.
-* Keep inventory on death: **Nothing**
-
-    When you die, a backpack container will be dropped with **all** the belongings you had on you. This includes everything in your inventory **and** on your toolbar. It does **not**, however, include your armor and boosts inserted into it. Everything else, however, is dropped.
-* Blueprints: **Allowed**
-
-    See the section [Hints](#hints) below for some more information about blueprints.
+1. Enemies are tougher to kill and hit harder. Expect more drones in sectors. POIs can be deadly *(but they are still possible*).
+2. Please read more about the [CPU Efficiency][cpu] if you want more information, but the important part is that CPU points and thus (in)efficiency have been turned off on this server. All bases and vessels always operate at 100% CPU efficiency regardless of presence of CPU Extenders. Some players, like me, still like to make the constructs CPU Compliant, but this is a personal choice and by no means necessary. See the [Hints](#hints) section further below for some information about how this might impact your gameplay.
+3. You are a superhuman. You can carry big constructors and thousands of big steel blocks without breaking a sweat. Cargo containers only check the amount of occupied slots inside, not what you have in them. You will likely see this in game as a "X / Y" ratio down and to the right of all inventories and the X can *far* overshoot the Y. This is not a problem. The reason for this decision is that most players feel that playing with volume and weight limits enabled makes the game much much more of a hassle than it makes it fun, so this has been turned off.
+4. Autominers does not deplete deposits. However, see [Known Issues](#known-issues) below for some *important* information about autominers on this server.
+5. When you die, a backpack container will be dropped with **all** the belongings you had on you. This includes everything in your inventory **and** on your toolbar. It does **not**, however, include your armor and boosts inserted into it. Everything else, however, is dropped.
+6. See the section [Hints](#hints) below for some more information about blueprints.
 
 ## Chatbot
 
@@ -138,6 +133,7 @@ back. This is part of the game. Bugs, however, should ot be.
 
 Here are a bunch of helpful hints to help you play [Empyrion][egs] on the **F12** server (or just in general).
 
+* There are limits in place for how many of different types of weapons you can place on the various types of structures. See the [separate page](structure-limits.md) for more information.
 * You can use your drone (hit F5) to pick up your backpack, if you can get close enough to it, and the drone has unobstructed access to it
 * In the very early stages of the game, it might be more efficient to just die of hunger than to constantly deal with finding materials for creating 1 food unit
 * If you find a really nice blueprint on the [Workshop][workshop], that is CPU compliant (usually says CPU T2, T3 or T4), but it is too costly for you to build in game (the Optronic parts are usually the culprits), a tip is to create a creative local savegame. Spawn it in creative mode (which is free), take out the parts you don't need (like these CPU Extenders), point at the construct and hit Alt+O and save your modified construct under a new blueprint name, and then you can build this one on the server instead.
