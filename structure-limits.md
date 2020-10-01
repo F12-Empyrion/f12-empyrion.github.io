@@ -15,6 +15,7 @@ This page details the limits imposed on various types of structures.
 | ------------------------------------ |  ---: |
 | Projectile Turrets (Cannon, Minigun) |    12 |
 | Laser Turrets (Pulse Laser, Plasma)  |    10 |
+| Rocket Turrets (Rocket, Flak)        |    10 |
 | Artillery Turrets                    |     2 |
 | Sentry Guns                          |     8 |
 
