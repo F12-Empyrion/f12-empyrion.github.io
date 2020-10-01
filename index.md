@@ -5,10 +5,7 @@ This page contains information the **F12** server running [Project Eden](#projec
 * TOC
 {:toc}
 
-## Changelog
-
-* 30/09/2020 - Added text about Discord chat linked to Empyrion global in game chat; Added proper domain
-* 29/09/2020 - Initial page published
+See the changelog for the site [here](changelog.md).
 
 ## Discord
 
@@ -45,8 +42,9 @@ All times shown here are in relation to [Norwegian Time][nortime] which currentl
 
 ### More information
 
-Every morning at 03:00 the server performs a restart. Players will be warned in advance, usually about 15 minutes before, 10 minutes before and 5 minutes before. Players should
-log out to avoid anomalies. The restart doesn't take long *(need info here)* so if you want to keep playing, wait for it to reappear in your server list to rejoin.
+Every morning at 03:00 the server performs a restart. Players will be warned several times during the 15 minutes in advance of the restart. Players should
+log out to avoid anomalies. The restart takes about 15 minutes so if you want to keep playing, wait for it to reappear in your server list to rejoin. With the linked Discord chat
+you can monitor Discord for the "Server started!" message to know when it is back up.
 
 Planetary deposits resets during this server restart. This will in most cases reset the terrain above the deposits, but depending on how big of an area of the surrounding terrain has been mined there may still be artefacts of mining present. The ores should be back, however.
 
