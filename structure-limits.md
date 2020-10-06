@@ -23,6 +23,7 @@ This page details the limits imposed on various types of structures.
 | Laser Turrets (Pulse Laser, Plasma)  |    10 |
 | Rocket Turrets (Rocket, Flak)        |    10 |
 | Sentry Guns                          |     8 |
+| Drill Module - Laser                 |     6 |
 | Artillery Turrets                    |     2 |
 
 ## Small Vessel (SV)
