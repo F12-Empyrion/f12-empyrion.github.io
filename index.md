@@ -17,13 +17,15 @@ At this moment, no maintenance is scheduled.
 | When                        | Why                   | How long               |
 | --------------------------- | --------------------- | ---------------------- |
 | 16th of October, 19:00  (1) | Windows server update | Unknown, still running |
+-->
 
 Note that "How long" is an expectancy. We will update the website if it runs longer.
 
-Notes:
+Past maintenances
 
-1. The Windows update is underway. Will update the page when the server is back up.
--->
+| When                        | Why                   | How long               |
+| --------------------------- | --------------------- | ---------------------- |
+| 16th of October, 19:00      | Windows server update | Completed at 19:45     |
 
 ## Discord
 
