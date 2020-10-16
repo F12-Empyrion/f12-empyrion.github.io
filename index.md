@@ -11,6 +11,9 @@ See the changelog for the site [here](changelog.md).
 
 In this section you will see upcoming maintenance sections being listed, when there are some. All times listed below will be in Norwegian time, which currently is CEST and GMT+2.
 
+At this moment, no maintenance is scheduled.
+
+<!--
 | When                        | Why                   | How long               |
 | --------------------------- | --------------------- | ---------------------- |
 | 16th of October, 19:00  (1) | Windows server update | Unknown, still running |
@@ -20,6 +23,7 @@ Note that "How long" is an expectancy. We will update the website if it runs lon
 Notes:
 
 1. The Windows update is underway. Will update the page when the server is back up.
+-->
 
 ## Discord
 
