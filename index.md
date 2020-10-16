@@ -7,6 +7,16 @@ This page contains information the **F12** server running [Project Eden](#projec
 
 See the changelog for the site [here](changelog.md).
 
+## Maintenance
+
+In this section you will see upcoming maintenance sections being listed, when there are some.
+
+| When                   | Why                   | How long      |
+| ---------------------- | --------------------- | ------------- |
+| 16th of October, 19:00 | Windows server update | 10-30 minutes |
+
+Note that "How long" is an expectancy. We will update the website if it runs longer.
+
 ## Discord
 
 The server has an accompanying [Discord](https://discord.com/) server, open to anyone playing on the **F12** server.
