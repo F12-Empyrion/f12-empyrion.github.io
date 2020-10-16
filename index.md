@@ -11,11 +11,15 @@ See the changelog for the site [here](changelog.md).
 
 In this section you will see upcoming maintenance sections being listed, when there are some.
 
-| When                   | Why                   | How long      |
-| ---------------------- | --------------------- | ------------- |
-| 16th of October, 19:00 | Windows server update | 10-30 minutes |
+| When                        | Why                   | How long      |
+| --------------------------- | --------------------- | ------------- |
+| 16th of October, 19:00  (1) | Windows server update | 10-30 minutes |
 
 Note that "How long" is an expectancy. We will update the website if it runs longer.
+
+Notes:
+
+1. The Windows update is underway, but hasn't really started to update the server, hopefully it will not take too long before it starts doing the actual update.
 
 ## Discord
 
