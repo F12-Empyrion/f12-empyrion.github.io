@@ -9,7 +9,7 @@ See the changelog for the site [here](changelog.md).
 
 ## Maintenance
 
-In this section you will see upcoming maintenance sections being listed, when there are some.
+In this section you will see upcoming maintenance sections being listed, when there are some. All times listed below will be in Norwegian time, which currently is CEST and GMT+2.
 
 | When                        | Why                   | How long      |
 | --------------------------- | --------------------- | ------------- |
