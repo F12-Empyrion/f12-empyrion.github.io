@@ -4,8 +4,6 @@ Hi, and welcome to the F12 Empyrion Server running the [Project Eden](project-ed
 
 We hope you have a fun time playing on the server but also understand that Empyrion servers are not always identical, so this webpage here aims to tell you all you need to know about playing on the F12 server and how it might differ from other servers you can join.
 
-**Note: Pages are currently being restructured, there may be broken links. This text will be removed when everything has been verified!**
-
 If you have any questions, please [contact us](contact-game.md).
 
 Please visit one of the many subpages for more information about a specific topic. They are ranked according to importance, so start from the top and stop reading when you feel you've have enough information.
@@ -33,3 +31,7 @@ Also, here's some general information about Empyrion that isn't specific to this
 * [Ammunition types](ammo-types.md)
 
   [egs]: https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
+
+---
+
+Click [here](contact-website.md) to report issues with this website.
