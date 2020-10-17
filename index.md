@@ -1,4 +1,4 @@
-# Server Information
+# Welcome Page
 
 Hi, and welcome to the F12 Empyrion Server running the [Project Eden](project-eden.md) custom scenario in [Empyrion - Galactic Survival][egs].
 
