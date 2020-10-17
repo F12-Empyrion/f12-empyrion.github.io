@@ -36,7 +36,7 @@ Since CPU points are disabled [on our server](server-settings.md), you don't nee
 In order to avoid having to appropriate or build the CPU extenders required for the blueprint, there is a very simple procedure.
 
 1. Subscribe to the blueprint, which you have probably already done
-2. Relog into the game. Remember that you need to exit the game completely to get newly subscribed blueprints to appear.
+2. Restart the game but don't rejoin the F12 server. Remember that you need to exit the game client completely to get newly subscribed blueprints to appear.
 3. Create a new creative game, or resume an existing one if you already have one.
 4. Use the F2 blueprint factory menu to spawn a copy of the blueprint for free in creative mode
 5. Hit P when aiming at the structure and go to the Devices tab, then locate the CPU extenders you want to get rid of
