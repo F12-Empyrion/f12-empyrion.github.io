@@ -4,7 +4,7 @@ Hi, and welcome to the F12 Empyrion Server running the [Project Eden](project-ed
 
 We hope you have a fun time playing on the server but also understand that Empyrion servers are not always identical, so this webpage here aims to tell you all you need to know about playing on the F12 server and how it might differ from other servers you can join.
 
-If you have any questions, please [contact us](contact-game.md).
+If you have any questions about the game or the server, please [contact us](contact-game.md).
 
 Please visit one of the many subpages for more information about a specific topic. They are ranked according to importance, so start from the top and stop reading when you feel you've have enough information.
 
