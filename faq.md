@@ -11,7 +11,7 @@ See the page on [known issues](known-issues.md) for more information.
 ## The server is not listed in the server list, what happened to it?
 
 Hopefully there is an ongoing [maintenance](maintenance.md). On occasion there has also been other reasons for the server going down, such as a sudden Windows Update performing a reset and needing some
-input. If you can't find the server in the list, and no current or scheduled maintenance is listed either, please contact us on [discord](discord.md) or [by email](mailto:lasse@vkarlsen.no?subject?F12+Server+down?].
+input. If you can't find the server in the list, and no current or scheduled maintenance is listed either, please contact us on [discord](discord.md) or [by email](mailto:lasse@vkarlsen.no?subject?F12+Server+down?).
 
 ## HALP! Half my base or ship is missing after login, what do I do?
 
