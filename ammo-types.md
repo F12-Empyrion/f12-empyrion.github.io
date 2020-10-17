@@ -41,4 +41,4 @@ This page details all the ammunition types in the game and which weapons they ar
 | Flamethrower Fuel (2)          | Flamethrower                                                                                           |
 
 1. The Plasma Blaster Charge is not craftable in this game. It can be obtained from traders, and can be found in cargo containers and enemy drops.
-2. Note that the Flamethrower Fuel is only possible to obtain as random drop in cargo containers, from enemy bodies, or downed drones. While it is listed in the constructor as craftable, there is no way to unlock the recipe in the unlock tree at the moment.
+2. Note that the Flamethrower Fuel is only possible to obtain as random drop in cargo containers, from enemy bodies, or downed drones. While it is listed in the constructor as craftable, there is no way to unlock the recipe in the unlock tree at the moment. We believe this might be related to custom configuration introduced by the [Project Eden](project-eden.md) custom scenario.
