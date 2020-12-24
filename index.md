@@ -10,6 +10,7 @@ Please visit one of the many subpages for more information about a specific topi
 
 Also check the [changelog](changelog.md) for this site to keep up to date to changes and new information being posted.
 
+* [Events](events.md) **<-- There's a planned event this christmas, go check it out!**
 * [Discord](discord.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Server Settings](server-settings.md)
