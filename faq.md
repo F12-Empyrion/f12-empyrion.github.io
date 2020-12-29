@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## I keep hearing people talking about a possible wipe, what's up?
+
+Read more about the [great wipe here](the-great-wipe.md).
+
 ## When does planetary deposits, asteroids, POIs reset?
 
 See [server restarts](server-restarts.md).
