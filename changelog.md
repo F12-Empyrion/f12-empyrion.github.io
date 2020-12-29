@@ -2,7 +2,8 @@
 
 This page contains a list of dates and what changed on the site. You can use this to figure out if you need to update yourself on the page contents.
 
-* 29/12/2020 - Added known issue of traders not working
+* 29/12/2020 - Some screenshots from our first server event
+* 27/12/2020 - Added known issue of traders not working
 * 18/12/2020 - Fixed information about flamethrower fuel
 * 17/10/2020 - Restructured site to use subpages instead of one big page; added page about ammunition types
 * 16/10/2020 - Added information about maintenance
