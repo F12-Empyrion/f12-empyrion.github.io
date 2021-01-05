@@ -15,6 +15,7 @@ Also check the [changelog](changelog.md) for this site to keep up to date to cha
 * [Code of Conduct](code-of-conduct.md)
 * [Server Settings](server-settings.md)
 * [Server restarts and resets](server-restarts.md)
+* [Material and item costs](material-costs.md)
 * [Factions](factions.md)
 * [Maintenance Windows](maintenance.md)
 * [Hints related to playing the game](hints.md)

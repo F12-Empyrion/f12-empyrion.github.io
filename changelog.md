@@ -2,6 +2,7 @@
 
 This page contains a list of dates and what changed on the site. You can use this to figure out if you need to update yourself on the page contents.
 
+* 05/01/2021 - Added material-costs, updated known issues
 * 29/12/2020 - Some screenshots from our first server event
 * 27/12/2020 - Added known issue of traders not working
 * 18/12/2020 - Fixed information about flamethrower fuel
