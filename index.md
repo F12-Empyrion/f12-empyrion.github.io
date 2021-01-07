@@ -10,11 +10,12 @@ Please visit one of the many subpages for more information about a specific topi
 
 Also check the [changelog](changelog.md) for this site to keep up to date to changes and new information being posted.
 
-* [Events](events.md) **<-- There's a planned event this christmas, go check it out!**
+* [Events](events.md)
 * [Discord](discord.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Server Settings](server-settings.md)
 * [Server restarts and resets](server-restarts.md)
+* [Working Traders](working-traders.md)
 * [Material and item costs](material-costs.md)
 * [Factions](factions.md)
 * [Maintenance Windows](maintenance.md)
