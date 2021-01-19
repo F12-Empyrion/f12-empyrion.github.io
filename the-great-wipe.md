@@ -48,6 +48,8 @@ The restore will be done as follows:
 
 1. The CV you built will be restored from backup wholesale. It will contain all the stuff you put into it, no changes. This should give you a good start on the new server.
 2. You will then queue up a blueprint for a capital vessel, or a small vessel, or whatnot, in YOUR OWN factory, and the admin will complete it for you instantly, without requiring resources. **This is why it is important that you make blueprints of your ships**.
+3. XP and some credits will be fixed.
+4. Reputation can be discussed.
 
 While we want to ensure people don't feel cheated, we do not plan on restoring ALL your ships and structures.
 
@@ -62,6 +64,12 @@ ASK! Ask in chat, ask Cabbot/LasseVK/Baalij on Discord, send me an email at lass
 
 **Q:** Will traders work after the wipe?  
 **A:** Yes, that's part of why we will do the wipe
+
+**Q:** Will I start at level 1 again?  
+**A:** Yes, but we can fix that.
+
+**Q:** Will I start without credits?  
+**A:** Initially, yes, but we will give everyone some credits. Note that everyone will be given the same amount, and it will be something like 100.000 credits. Instead you might want to stock up on weapons or whatnot you can sell to the traders on the new server.
 
 **Q:** What if ...?  
 **A:** We will figure it out. The wipe is not done to reset everyone back to the stoneage, the wipe is necessary because the server will soon be unplayable. As such we will figure out how to deal with whatever that comes up of requests and wishes.
