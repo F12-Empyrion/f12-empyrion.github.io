@@ -63,7 +63,9 @@ Recycling traders sell and buy basic constructor components, but also some of th
 
 | System                          | Sector or planet        | Name of POI             | Faction | Comments                                     |
 | ------------------------------- |  ---------------------- | ----------------------- | ------- | -------------------------------------------- |
-| Alpha                           | Akua                    | Sanctuary               | Polaris  |                                              |
+| Alpha                           | Akua                    | Sanctuary               | Polaris |                                              |
+| Aregion                         | Ideantepr Sector        | Smuggler Outpost        | ?        | Armors, boosts, T1-T2 weapons and ammo      |
+| Hansisegion                     | Ufanton Sector          | Smuggler Outpost        | ?        | Armors, boosts, T1-T2 weapons and ammo      |
 
 ## Mining Traders
 
@@ -97,12 +99,16 @@ Weapon traders sell and buy basic (T1) weapons, as well as some medical items an
 | System                          | Sector or planet        | Name of POI             | Faction  | Comments                                     |
 | ------------------------------- |  ---------------------- | ----------------------- | -------- | -------------------------------------------- |
 | Gorgab-ae                       | Umif Sector             | Waystation              | Civilian |                                              |
+| Aregion                         | Ideantepr Sector        | Smuggler Outpost        | ?        | Shotgun, sniper, assault rifle, multi-tool, pistol |
+| Hansiegion                      | Ufanton Sector          | Smuggler Outpost        | ?        | Shotgun, sniper, assault rifle, multi-tool, pistol |
 
 ## Specialized Traders
 
 | System                          | Sector or planet        | Name of POI             | Faction  | Comments                                     |
 | ------------------------------- |  ---------------------- | ----------------------- | -------- | -------------------------------------------- |
 | Legebredil                      | ZUY 15312 I             | Warehouse               | Polaris  | Raw diamonds, luxury goods, fertilizers, robotics, toxic waste, coolant, leather, chemicsl, auto miner cors, optronic matrices and bridges |
+| Aregion                         | Ideantepr Sector        | Smuggler Outpost        | ?        | Epic Assault Rifle, Epic Pulse Rifle         |
+| Hansiegion                      | Ufanton Sector          | Smuggler Outpost        | ?        | Epic Assault Rifle, Epic Pulse Rifle         |
 
 ## Totally Overpowered (TOP) / Purgatory
 

@@ -2,6 +2,16 @@
 
 Hi, and welcome to the F12 Empyrion Server running the [Project Eden](project-eden.md) custom scenario in [Empyrion - Galactic Survival][egs].
 
+---
+
+**THE GREAT WIPE IS COMING**
+
+[Read more here](the-great-wipe.md)
+
+---
+
+
+
 We hope you have a fun time playing on the server but also understand that Empyrion servers are not always identical, so this webpage here aims to tell you all you need to know about playing on the F12 server and how it might differ from other servers you can join.
 
 If you have any questions about the game or the server, please [contact us](contact-game.md).
@@ -10,6 +20,7 @@ Please visit one of the many subpages for more information about a specific topi
 
 Also check the [changelog](changelog.md) for this site to keep up to date to changes and new information being posted.
 
+* [THE GREAT WIPE](the-great-wipe.md)
 * [Events](events.md)
 * [Discord](discord.md)
 * [Code of Conduct](code-of-conduct.md)
