@@ -1,5 +1,18 @@
 # The Great Wipe
 
+Here's some updated information.
+
+Version 1.4 of Empyrion dropped today, 4th of February 2021.
+
+The author of Project Eden has said on the workshop page for the scenario that he has the new version ready to go.
+
+We will need to decide on and make plans for the following:
+
+* Check when the server owner has time to perform the update. He has mentioned that he wants to do it properly and not in a haphazard way to avoid bringing *any* problems from the old server to the new one. This means that a completely new savegame will be created, and configured, and this will likely take some time. Not weeks, but it might take days to get it properly configured and tested.
+* Additionally we need to decide if we jump on 1.4.0 of everything, or if we wait for the first hotfixes in both Empyrion and the scenario have been published before we make the install. We'll discuss this and update this page.
+
+---
+
 We're currently running version 1.2 of the Project Eden scenario, which makes heavy customization to the game configuration files.
 The game client, however, is at 1.3 as of writing this.
 

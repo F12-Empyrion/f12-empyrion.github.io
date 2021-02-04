@@ -4,7 +4,7 @@ Hi, and welcome to the F12 Empyrion Server running the [Project Eden](project-ed
 
 ---
 
-**THE GREAT WIPE IS COMING**
+**THE GREAT WIPE IS COMING VERY SOON!**
 
 [Read more here](the-great-wipe.md)
 
