@@ -2,14 +2,20 @@
 
 Here's some updated information.
 
-Version 1.4 of Empyrion dropped today, 4th of February 2021.
+Version 1.4 of Empyrion dropped today, 4th of February 2021.  
+Project Eden 1.4 dropped in an initial version on 4th of February 2021.
 
-The author of Project Eden has said on the workshop page for the scenario that he has the new version ready to go.
+However, the author of Project Eden has said that he will release an updated version around the 12th, and that if anyone wants to start a new Project Eden game in 1.4, they should wait for this updated version.
 
-We will need to decide on and make plans for the following:
+**So that's what we're going to do.**
 
-* Check when the server owner has time to perform the update. He has mentioned that he wants to do it properly and not in a haphazard way to avoid bringing *any* problems from the old server to the new one. This means that a completely new savegame will be created, and configured, and this will likely take some time. Not weeks, but it might take days to get it properly configured and tested.
-* Additionally we need to decide if we jump on 1.4.0 of everything, or if we wait for the first hotfixes in both Empyrion and the scenario have been published before we make the install. We'll discuss this and update this page.
+Our server owner will need to plan the update, it will likely require the cooperation of several of the admins and helpers to test, but at least now we can say that unless the server breaks down completely before the 12th, we will hold off until the updated Project Eden 1.4 scenario is released on the 12th.
+
+So you now have extra time to prepare for the Big Wipe.
+
+Also, know that traders have started working again. Haven't tested them all but it seems Polaris Orbital Trading Station and planetary Trading Stations have functioning traders again. Now might be a good time to spend your credits if you have some, to buy supplies for the new server.
+
+This page will be updated with more of an exact date and plans once the server owner has looked into when he has time to do the update.
 
 ---
 
