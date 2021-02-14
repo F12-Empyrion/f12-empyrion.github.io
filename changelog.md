@@ -2,6 +2,7 @@
 
 This page contains a list of dates and what changed on the site. You can use this to figure out if you need to update yourself on the page contents.
 
+* 14/02/2021 - New server set up from scratch
 * 05/02/2021 - Updated information about "The Great Wipe" again regarding the 12th of February
 * 04/02/2021 - Updated information about "The Great Wipe" now that Empyrion 1.4 has been released
 * 07/01/2021 - Added initial list of working traders

@@ -4,13 +4,7 @@ From time to time we might conduct polls that tells us what the player community
 
 ## Ongoing polls
 
-At this time we have one poll going:
-
-* [F12 Empyrion Server Poll - Teleporter Range](https://forms.gle/iyNCLVfdkrtPPSy27)
-
-Please click on the link(s) to leave your vote.
-
-Each poll will tell you a little bit about what it asks of you, and also tell you approximately when the poll will be closed and what happens next.
+At this time we have no polls going.
 
 ## Information about Google sign-in
 
@@ -22,4 +16,4 @@ However, Google does not tell us any information about who has responded, so eve
 
 Previous polls and their results will be posted here. If any decisions were made, the decision will also be posted here.
 
-There has not yet been any polls conducted. This will be updated when polls close and decisions are made.
+* Teleporter Range: Conclusion was to leave at 50.
