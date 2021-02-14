@@ -2,6 +2,8 @@
 
 This page details all the ammunition types in the game and which weapons they are used by.
 
+***This page will be updated with new Project Eden information***
+
 | Ammunition Type                | Weapons                                                                                                |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | Drill Charge                   | Drill, Drill (Epic)                                                                                    |
