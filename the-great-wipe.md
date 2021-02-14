@@ -2,6 +2,8 @@
 
 Long story short; the new F12 Project Eden server is now up and running.
 
+(the web page has been uploaded before the server is ready to be played on, we're working as hard we can to make it available for anyone)
+
 It is a completely new server, installed from scratch, nothing brought over from the old other than looking at which configuration changes we did.
 
 The server starts out on Project Eden 1.4.1, released on the 14th of February.
