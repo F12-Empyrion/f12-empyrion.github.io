@@ -18,8 +18,8 @@ Please visit one of the many subpages for more information about a specific topi
 
 Also check the [changelog](changelog.md) for this site to keep up to date to changes and new information being posted.
 
-* [Events](events.md)
 * [Discord](discord.md)
+* [Events](events.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Server Settings](server-settings.md)
 * [Server restarts and resets](server-restarts.md)
