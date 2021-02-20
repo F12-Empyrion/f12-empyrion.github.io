@@ -39,6 +39,7 @@ Also, here's some general information about Empyrion that isn't specific to this
 
 * [Structure Limits](structure-limits.md)
 * [Ammunition types](ammo-types.md)
+* [Advanced Tips](advanced-tips.md)
 
   [egs]: https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
 
