@@ -2,10 +2,7 @@
 
 Hi, and welcome to the F12 Empyrion Server running the [Project Eden](project-eden.md) custom scenario in [Empyrion - Galactic Survival][egs].
 
-**NOTICE:** We've had some warp issues where we cannot warp to certain systems. There is an update out for the scenario that hopes to fix this, but it will only fix it going forward,
-any systems we've already tried to warp to, and failed, because of the issues this update fixes, will stay broken and not be fixed.
-
-So please tone down the extensive exploration for today, until we've had a chance to apply the update later tonight.
+**NOTICE:** Please read this information on [wiping empty playfields](wipe-empty-playfields.md).
 
 ---
 

@@ -2,6 +2,7 @@
 
 This page contains a list of dates and what changed on the site. You can use this to figure out if you need to update yourself on the page contents.
 
+* 05/03/2021 - Added page on wiping empty playfields
 * 20/02/2021 - Started page about advanced tips
 * 14/02/2021 - New server set up from scratch
 * 05/02/2021 - Updated information about "The Great Wipe" again regarding the 12th of February
