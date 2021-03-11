@@ -14,6 +14,7 @@ Please visit one of the many subpages for more information about a specific topi
 
 Also check the [changelog](changelog.md) for this site to keep up to date to changes and new information being posted.
 
+* [10 most important facts if you're a new player on the server](new-player.md)
 * [Discord](discord.md)
 * [Events](events.md)
 * [Code of Conduct](code-of-conduct.md)
