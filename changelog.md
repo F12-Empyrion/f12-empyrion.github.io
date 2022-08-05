@@ -2,6 +2,7 @@
 
 This page contains a list of dates and what changed on the site. You can use this to figure out if you need to update yourself on the page contents.
 
+* 05/08/2022 - Updated for new server season
 * 11/03/2021 - Added note in the reset page about wiping empty playfields, also added new-player page
 * 05/03/2021 - Added page on wiping empty playfields
 * 20/02/2021 - Started page about advanced tips

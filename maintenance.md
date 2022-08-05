@@ -12,4 +12,4 @@ Also see [server restarts](server-restarts.md) for more information about period
 
 | When                        | Why                   | How long               |
 | --------------------------- | --------------------- | ---------------------- |
-| 16th of October, 19:00      | Windows server update | Completed at 19:45     |
+|                             |                       |                        |

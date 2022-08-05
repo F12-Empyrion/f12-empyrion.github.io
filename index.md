@@ -1,8 +1,6 @@
 # Welcome Page
 
-Hi, and welcome to the F12 Empyrion Server running the [Project Eden](project-eden.md) custom scenario in [Empyrion - Galactic Survival][egs].
-
-**NOTICE:** Please read this information on [wiping empty playfields](wipe-empty-playfields.md).
+Hi, and welcome to the F12 Empyrion Server running the [Reforged Eden](reforged-eden.md) custom scenario in [Empyrion - Galactic Survival][egs].
 
 ---
 
@@ -16,27 +14,18 @@ Also check the [changelog](changelog.md) for this site to keep up to date to cha
 
 * [10 most important facts if you're a new player on the server](new-player.md)
 * [Discord](discord.md)
-* [Events](events.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Server Settings](server-settings.md)
 * [Server restarts and resets](server-restarts.md)
-* [Material and item costs](material-costs.md)
 * [Factions](factions.md)
 * [Maintenance Windows](maintenance.md)
 * [Hints related to playing the game](hints.md)
 * [Known Issues (either with Empyrion or the server)](known-issues.md)
-* [Ongoing polls](polls.md)
 * [Timezone and server location](timezone.md)
-* [Scenario: Project Eden](project-eden.md)
+* [Scenario: Reforged Eden](reforged-eden.md)
 * [Chatbot](chatbot.md)
 * [Admin services](admin-services.md)
 * [Frequently Asked Questions](faq.md)
-
-Also, here's some general information about Empyrion that isn't specific to this server but still useful to have available in compiled form:
-
-* [Structure Limits](structure-limits.md)
-* [Ammunition types](ammo-types.md)
-* [Advanced Tips](advanced-tips.md)
 
   [egs]: https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
 
