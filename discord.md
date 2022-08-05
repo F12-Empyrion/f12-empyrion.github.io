@@ -16,4 +16,4 @@ Note that it is not a requirement that you join the discord server. If you've jo
 
 You're *most* welcome on the F12 discord server, however, if you feel alone or just want someone else to talk to.
 
-  [joindiscord]: https://discord.gg/ataYfPV
+  [joindiscord]: https://discord.gg/SWzJ2Ek8cQ
