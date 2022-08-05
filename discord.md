@@ -2,7 +2,7 @@
 
 The server has an accompanying [Discord](https://discord.com/) server, open to anyone playing on the **F12** server.
 
-You can join it by clicking [here][joindiscord], or by clicking on the + inside Discord and entering the code **`ataYfPV`**.
+You can join it by clicking [here][joindiscord], or by clicking on the + inside Discord and entering the code **`SWzJ2Ek8cQ`**.
 
 **Note!** If the above link or code is not working, please [contact us](contact-game.md) and someone will fix this ASAP. It sometimes happens that codes or links get stale even though they are set to never expire, but we'll fix this immediately.
 
