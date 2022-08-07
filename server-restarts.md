@@ -15,8 +15,6 @@ Every morning at 03:00 the server performs a restart. Players will be warned sev
 
 Planetary deposits resets during this server restart. This will in most cases reset the terrain above the deposits, but depending on how big of an area of the surrounding terrain has been mined there may still be artefacts of mining present. The ores should be back, however.
 
-POIs are reset twice a week, every Tuesday and Friday during server restart. Structures will then respawn, surrounding terrain should be reset, and loot inside will be randomized.
-
-The "empty playfields" thing mean that every Tuesday and Friday, at 03:00, empty playfields are completely wiped. "Empty" here means that no player-made structure is present on them, nor is any player logged out there.
+POIs are reset as well. This includes asteroids.
 
 **Warning:** Please read the section on [Known Issues](known-issues.md) further below for information about **Autominers**.
