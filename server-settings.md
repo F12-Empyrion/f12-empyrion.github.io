@@ -8,7 +8,7 @@ The [Empyrion][egs] game has plenty of settings, so here is a list of the settin
 | --------------------------- | ------------ |
 | Difficulty                  | Hard         |
 | CPU Points                  | Enabled      |
-| Check Mass / Volume         | Enabled      |
+| Check Mass / Volume         | Disabled (2) |
 | Auto Miner Depletion        | Disabled (1) |
 | Keep inventory on death     | Toolbar      |
 | Blueprints/repair bay speed | Faster       |
@@ -22,3 +22,4 @@ The [Empyrion][egs] game has plenty of settings, so here is a list of the settin
 | Base attacks                | High         |
 
 1. Autominers does not deplete deposits. However, see [Known Issues](known-issues.md) below for some *important* information about autominers on this server.
+2. After some discussion, we decided to disable Mass / Volume on this server. This was disabled after the server went live.
