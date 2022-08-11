@@ -2,7 +2,8 @@
 
 Here are a bunch of helpful hints to help you play [Empyrion][egs] on the **F12** server (or just in general).
 
-* There are limits in place for how many of different types of weapons you can place on the various types of structures. See the [separate page](structure-limits.md) for more information.
+* The server does not check block limits on most blocks. This means that if you want to build a CV with only rocket launchers, you can have as many as your CPU budget and power capacity allows you to.
+* The exception to this is are "special blocks", like CPU extenders, for which limits are still in place.
 * You can use your drone (hit F5) to pick up your backpack, if you can get close enough to it, and the drone has unobstructed access to it
 * In the very early stages of the game, it might be more efficient to just die of hunger than to constantly deal with finding materials for creating 1 food unit
 * If you find a really nice blueprint on the [Workshop][workshop], that is CPU compliant (usually says CPU T2, T3 or T4), but it is too costly for you to build in game (the Optronic parts are usually the culprits), a tip is to create a creative local savegame. Spawn it in creative mode (which is free), take out the parts you don't need (like these CPU Extenders), point at the construct and hit Alt+O and save your modified construct under a new blueprint name, and then you can build this one on the server instead.
